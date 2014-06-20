@@ -1,0 +1,111 @@
+[Global]
+CurrentProject=mposp.vpj
+[ProjectDates]
+mposp.vpj=20120221101716515
+[ActiveConfig]
+mposp.vpj=Debug
+[TreeExpansion2]
+- mposp.vpj
+  + src
+    - src\main.c
+    - src\Makefile
+  + src\include
+    - src\include\all.h
+    - src\include\byteo.h
+    - src\include\console.h
+    - src\include\crypto.h
+    - src\include\fileo.h
+    - src\include\infofunc.h
+    - src\include\logc.h
+    - src\include\mac.h
+    - src\include\merchants.h
+    - src\include\sysfunc.h
+    - src\include\timeo.h
+    - src\include\tradeflow.h
+    - src\include\tradekey.h
+    - src\include\trademenu.h
+    - src\include\types.h
+  - src\infoadmin
+    - src\infoadmin\infofunc.c
+    - src\infoadmin\Makefile
+    - src\infoadmin\merchants.c
+    - src\infoadmin\tradeflow.c
+    - src\infoadmin\tradekey.c
+    - src\infoadmin\trademenu.c
+  + src\libcrypt
+    - src\libcrypt\crypto.c
+    - src\libcrypt\des.c
+    - src\libcrypt\des.h
+    - src\libcrypt\Makefile
+  + src\libutil
+    - src\libutil\byteo.c
+    - src\libutil\fileo.c
+    - src\libutil\logc.c
+    - src\libutil\Makefile
+    - src\libutil\timeo.c
+  - src\sysadmin
+    - src\sysadmin\console.c
+    - src\sysadmin\Makefile
+    - src\sysadmin\sysfunc.c
+  + test
+    - test\Makefile
+    - test\test.c
+scroll:0
+[State]
+SCREEN: 1280 800 100 100 960 550 0 0 M 0 0 0 0 972 444 0
+CWD: ..\micposp
+FILEHIST: 9
+src\main.c
+src\include\trademenu.h
+src\sysadmin\console.c
+src\libutil\timeo.c
+src\infoadmin\tradeflow.c
+src\infoadmin\trademenu.c
+src\sysadmin\sysfunc.c
+src\infoadmin\tradekey.c
+src\infoadmin\infofunc.c
+DEBUG: 0 0 0 0 3 0 gdb
+printf
+strcpy
+std::*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20120221101716515 37 F:\vwork\vshare\micposp\mposp.vpj
+src\main.c
+src\Makefile
+src\include\all.h
+src\include\byteo.h
+src\include\console.h
+src\include\crypto.h
+src\include\fileo.h
+src\include\infofunc.h
+src\include\logc.h
+src\include\mac.h
+src\include\merchants.h
+src\include\sysfunc.h
+src\include\timeo.h
+src\include\tradeflow.h
+src\include\tradekey.h
+src\include\trademenu.h
+src\include\types.h
+src\infoadmin\infofunc.c
+src\infoadmin\Makefile
+src\infoadmin\merchants.c
+src\infoadmin\tradeflow.c
+src\infoadmin\tradekey.c
+src\infoadmin\trademenu.c
+src\libcrypt\crypto.c
+src\libcrypt\des.c
+src\libcrypt\des.h
+src\libcrypt\Makefile
+src\libutil\byteo.c
+src\libutil\fileo.c
+src\libutil\logc.c
+src\libutil\Makefile
+src\libutil\timeo.c
+src\sysadmin\console.c
+src\sysadmin\Makefile
+src\sysadmin\sysfunc.c
+test\Makefile
+test\test.c
+TBCLASS: 0 0

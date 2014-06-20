@@ -1,0 +1,6 @@
+BINDIR=`dirname $0`
+cd $BINDIR
+TARGET=test
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PWD/../lib/
+./$TARGET
+
